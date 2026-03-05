@@ -1,0 +1,6 @@
+order_id,customer_id,product,quantity,price,order_date
+1,101,Laptop,1,80000,2024-01-02
+2,102,Phone,2,30000,2024-01-05
+3,103,Tablet,1,20000,2024-01-07
+4,101,Headphones,3,2000,2024-01-10
+5,104,Monitor,1,15000,2024-01-12
